@@ -1,4 +1,4 @@
-# Asura-s-Wrath_Chinese-Localization
+# Asura's Wrath_Chinese Localization Text
 
 所有文本编码均为UTF-16 LE，若使用记事本打开乱码请换个编辑器。  
 These texts are all in UTF-16 LE.
