@@ -7,11 +7,11 @@ These texts are all in UTF-16 LE.
 Translation of main story and lost episode refers to [suliavis](http://i.youku.com/u/UMTExOTcyNjE2)'s video(some translations are modified).  
 Text in collection is translated by me.
 
-To do list:
-1. 完全没有校对过……
-2. 因为字库问题没法直接导入游戏校验，可能有误。
-3. 语气拟声词太多了，没法根据实际游戏内情景校对……
-4. 因为设定集暂时没法入手，可能某些翻译有误。
-5. Gohma的名字日版和英版翻译不同，猜测日版是用片假名转写的梵文，英版是微妙的意译（虽然更可能是直接看设定重新取的名字）。
+> 2022/09/06更新
+>> 1. 第一遍校对完成啦！撒花祝贺！  
+>> 2. 感谢tomas1985的字库破解！或许再过不久就能发布正式版汉化补丁了哦！ [汉化预览点这里](https://www.bilibili.com/video/BV1614y1b7i2) 
+>> 3. 谢谢你cc2，大部分拟声词台词都不会在游戏内实际出现  
+>> 4. 我要向大家宣传一下带来希望的[「ASURA'S WRATH」电子版设定集](https://www.tsdm39.net/forum.php?mod=viewthread&tid=1061223)
+>> 5. 业魔的名字？Fxck
 
-Last updated: 2021/7/23
+Last updated: 2022/09/06
