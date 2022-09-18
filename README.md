@@ -1,7 +1,7 @@
 # Asura's Wrath_Chinese Localization Text
 
-所有文本编码均为UTF-16 LE，若使用记事本打开乱码请换个编辑器。  
-These texts are all in UTF-16 LE.
+所有文本编码均为UTF-16 LE with BOM，若使用记事本打开乱码请换个编辑器。  
+These texts are all in UTF-16 LE with BOM.
 
 剧情部分翻译参考[suliavis](http://i.youku.com/u/UMTExOTcyNjE2)的视频（有部分修改），Collection部分相关文本为自翻。  
 Translation of main story and lost episode refers to [suliavis](http://i.youku.com/u/UMTExOTcyNjE2)'s video(some translations are modified).  
