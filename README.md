@@ -7,6 +7,9 @@ These texts are all in UTF-16 LE.
 Translation of main story and lost episode refers to [suliavis](http://i.youku.com/u/UMTExOTcyNjE2)'s video(some translations are modified).  
 Text in collection is translated by me.
 
+> 2022/09/18更新
+>> 1. 初版发布啦！！！
+
 > 2022/09/06更新
 >> 1. 第一遍校对完成啦！撒花祝贺！  
 >> 2. 感谢tomas1985的字库破解！或许再过不久就能发布正式版汉化补丁了哦！ [汉化预览点这里](https://www.bilibili.com/video/BV1614y1b7i2) 
